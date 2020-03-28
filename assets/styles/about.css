@@ -1,0 +1,22 @@
+.about{
+    background-color: rgb(224, 176, 176);
+    height: 92vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 200px;
+    height: 200px;
+    background-color: whitesmoke;
+    border-radius: 10%;
+    
+}
+
+.card-header{
+    height: 40px;
+    background-color: rgba(218, 12, 12, 0.61);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
